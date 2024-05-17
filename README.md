@@ -4,7 +4,7 @@ Description:
 This project consists of a simple HTML file representing a product catalog. It categorizes products into three main sections: Electronics, Clothing, and Home Appliances. Each section contains product details such as description, price, image, and specifications.
 
 File Contents:
-index.html: HTML file containing the structure and content of the product catalog.
+Product Catalog: HTML file containing the structure and content of the product catalog.
 
 Sections:
 1. **Electronics:** Includes details of electronic products like laptops.
